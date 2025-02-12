@@ -7,7 +7,7 @@ Build a complete e-commerce using the MERN stack! In this project, we will creat
 
 <h1><b>Demo-1</b></h1>
 
-<img src="https://github.com/DuyT1notFum/test/raw/main/demo-1.gif" alt="Demo GIF" width="600">
+![Demo GIF](https://github.com/DuyT1notFum/test/blob/main/demo-1.gif)
 
 
 
