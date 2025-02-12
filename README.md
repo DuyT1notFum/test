@@ -7,9 +7,9 @@ Build a complete e-commerce using the MERN stack! In this project, we will creat
 
 <h1><b>Demo-1</b></h1>
 
-<video width="600" controls>
-  <source src="https://github.com/your-username/your-repo/raw/main/path/to/your-video.mp4" type="video/mp4">
-  Trình duyệt không hỗ trợ video.
+<video>
+  <source src="https://github.com/DuyT1notFum/test/blob/main/demo-1.gif?raw=true" type="video/mp4">
+  
 </video>
 
 
